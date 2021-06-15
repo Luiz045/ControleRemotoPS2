@@ -1,5 +1,7 @@
 # ControleRemotoPS2
 
+Este código é referente a uma implementação utilizando um controle remoto de PS2 sem fio. Eu utilizei tal codigo para automatizar uma miniatura de carro, fazendo tambem a parte eletrica.                    
+
 #Baixe a biblioteca "PS2X_lib", disponivel no github e tambem pelo IDE arduino.                                                                 
 Descrição das saidas:                                               
 REVERSAO --> saida digital (aciona um relé responsavel pela ré)                                            
